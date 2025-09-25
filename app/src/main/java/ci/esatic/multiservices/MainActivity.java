@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
         card5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                gotoUrl("https://www.google.com/maps/@5.366285,-3.910097,15z?entry=ttu");
+                gotoUrl("https://www.google.com/maps/place/Ecole+Sup%C3%A9rieure+Africaine+Tic/@5.290714,-4.0014209,17z/data=!3m1!4b1!4m6!3m5!1s0xfc1e95a7230b815:0xb42441cd6ea4939c!8m2!3d5.290714!4d-3.998846!16s%2Fg%2F11h0r0235?entry=ttu&g_ep=EgoyMDI1MDkyMS4wIKXMDSoASAFQAw%3D%3D");
             }
         });
         //ajout d'evenement sur card6
